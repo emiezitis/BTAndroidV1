@@ -20,7 +20,6 @@ public class MainActivity extends AppCompatActivity {
 
 
     private String clientToken;
-    private int paymentMethodNonce;
     private String nonce;
 
 
